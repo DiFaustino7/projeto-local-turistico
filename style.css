@@ -1,0 +1,30 @@
+body{
+  /* border: 1px solid black;   */
+  font-family: "Open Sans", sans-serif;
+  margin: 80px 88px 138px 80px;
+  background-color: #F5F4F0;
+}
+main{
+  border: 1px solid black;
+  width: 1120px;
+  height: 3054px;
+}
+header{
+  color: #E1624F;
+  font-size: 16px;
+  width: 1120px;
+  height: 22px;
+  margin-bottom: 8px;
+ 
+}
+h1{
+  padding-bottom: 20px;
+}
+
+#img1{
+  padding-top: 20px;
+  padding-bottom: 24px;
+}
+#p1{
+  text-align: center;
+}
