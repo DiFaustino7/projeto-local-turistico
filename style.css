@@ -3,11 +3,10 @@ body{
   font-family: "Open Sans", sans-serif;
   margin: 80px 88px 138px 80px;
   background-color: #F5F4F0;
+  
 }
-main{
+main{ 
   border: 1px solid black;
-  width: 1120px;
-  height: 3054px;
 }
 header{
   color: #E1624F;
@@ -21,7 +20,8 @@ h1{
   padding-bottom: 20px;
 }
 
-#img1{
+img{
+  width: 100%;
   padding-top: 20px;
   padding-bottom: 24px;
 }
